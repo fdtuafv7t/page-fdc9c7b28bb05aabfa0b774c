@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a8caaa36c37d346500841e41",
+  "owner": "fdtuafv7t",
+  "repo": "page-fdc9c7b28bb05aabfa0b774c",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fdc9c7b28bb05aabfa0b774c",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7c236a630e5cce8d3fc74deedd33119de12ff24a57b8e1e3962f5e5f9adab01d",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯提供安全稳定的网络加速服务，支持多种客户端下载。查看最新套餐信息，享受高效上网体验。",
+          "AI_DESCRIPTION": "青云梯提供安全稳定的网络加速服务，支持多种客户端下载。查看最新套餐信息，享受高效上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --warm-white: #f8f1e3;\n            --coral: #ff6b6b;\n            --coral-dark: #e85d5d;\n            --text: #333;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: 'Segoe UI', system-ui, sans-serif;\n            background-color: var(--warm-white);\n            color: var(--text);\n            line-height: 1.6;\n            max-width: 1200px;\n            margin:0 auto;\n            padding:0;\n        }\n        header {\n            background-color: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        .nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 5%;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--coral);\n            text-decoration: none;\n        }\n        .nav a {\n            color: var(--text);\n            text-decoration: none;\n            margin-left: 2rem;\n            font-size: 1rem;\n        }\n        .hero {\n            background-color: #fff;\n            padding: 4rem 5%;\n            text-align: center;\n            border-radius: 0 0 20px 20px;\n        }\n        .hero h1 {\n            font-size: 3rem;\n            color: var(--coral);\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.2rem;\n            margin-bottom: 2rem;\n            max-width: 600px;\n            margin-left: auto;\n            margin-right: auto;\n        }\n        .btn {\n            background-color: var(--coral);\n            color: white;\n            padding: 0.8rem 2rem;\n            border: none;\n            border-radius: 50px;\n            font-size: 1.1rem;\n            cursor: pointer;\n            text-decoration: none;\n            display: inline-block;\n            transition: background 0.3s;\n        }\n        .btn:hover {\n            background-color: var(--coral-dark);\n        }\n        .section {\n            padding: 3rem 5%;\n        }\n        .section h2 {\n            font-size: 2rem;\n            margin-bottom: 2rem;\n            text-align: center;\n            color: var(--coral);\n        }\n        .grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 1.5rem;\n        }\n        .card {\n            background: white;\n            border-radius: 15px;\n            padding: 2rem;\n            box-shadow: 0 5px 15px rgba(0,0,0,0.08);\n            transition: transform 0.3s;\n        }\n        .card:hover {\n            transform: translateY(-5px);\n        }\n        .card h3 {\n            color: var(--coral);\n            margin-bottom: 1rem;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            border: 2px solid #eee;\n            border-radius: 12px;\n            padding: 1.5rem;\n            text-align: center;\n        }\n        .plan-card h4 {\n            color: var(--coral);\n            margin-bottom: 0.5rem;\n        }\n        .price {\n            font-size: 2rem;\n            font-weight: bold;\n            color: var(--coral);\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 10px;\n            padding: 1rem;\n            box-shadow: 0 3px 10px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker { display: none; }\n        .footer {\n            background: #333;\n            color: white;\n            text-align: center;\n            padding: 2rem;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            .hero h1 { font-size: 2.5rem; }\n            .nav { flex-direction: column; gap: 1rem; }\n            .nav a { margin-left: 0; }\n        }\n    </style>\n\n\n    <header>\n        <nav class=\"nav\">\n            <a href=\"#\" class=\"logo\">青云梯</a>\n            <div>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#plans\">套餐对比</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>青云梯</h1>\n            <p>安全稳定的网络加速器</p>\n            <a href=\"#\" class=\"btn\">立即下载客户端</a>\n        </section>\n        <section class=\"section\" id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>青云梯致力于提供高效的网络加速服务，帮助用户轻松突破网络限制，实现稳定连接。</p>\n        </section>\n        <section class=\"section\" id=\"scenarios\">\n            <h2>使用场景</h2>\n            <div class=\"grid\">\n                <div class=\"card\">\n                    <h3>科学上网</h3>\n                    <p>快速连接海外节点，畅享国际内容。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>在线游戏</h3>\n                    <p>降低延迟，提升游戏体验。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>远程办公</h3>\n                    <p>稳定传输数据，保障工作效率。</p>\n                </div>\n            </div>\n        </section>\n        <section class=\"section\" id=\"howto\">\n            <h2>操作说明</h2>\n            <div class=\"grid\">\n                <div class=\"card\">\n                    <h3>步骤一</h3>\n                    <p>访问官网下载客户端。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>步骤二</h3>\n                    <p>安装并注册账号。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>步骤三</h3>\n                    <p>选择节点一键连接。</p>\n                </div>\n            </div>\n        </section>\n        <section class=\"section\" id=\"plans\">\n            <h2>套餐对比</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section class=\"section\" id=\"clients\">\n            {{CLIENTS_HTML}}\n        </section>\n        <section class=\"section\" id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>青云梯是什么？</summary>\n                    <p>青云梯是一款专注于网络加速的VPN服务，提供安全高效的连接体验。</p>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>支持Windows、Mac、iOS、Android和更多主流平台。</p>\n                </details>\n                <details>\n                    <summary>如何开始使用？</summary>\n                    <p>下载客户端后，按照提示进行安装和配置即可。</p>\n                </details>\n                <details>\n                    <summary>服务支持多久？</summary>\n                    <p>提供持续的在线技术支持，确保您使用无忧。</p>\n                </details>\n                <details>\n                    <summary>是否提供退款政策？</summary>\n                    <p>根据具体套餐条款提供相应的退款或续费选项。</p>\n                </details>\n            </div>\n        </section>\n    </main>\n    <footer class=\"footer\">\n        <p>© 2024 青云梯</p>\n    </footer>\n\n",
+          "hash": "28a53e8b9ca293077a900af426fe04fbb92219969cb1d3b317c3be7d2d4cf649",
+          "seo": {
+            "title": "青云梯 VPN 加速器 | 官方客户端下载与套餐对比",
+            "keywords": "青云梯, VPN, 机场, 加速器, 客户端下载, 套餐",
+            "description": "青云梯提供安全稳定的网络加速服务，支持多种客户端下载。查看最新套餐信息，享受高效上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ratabvd.cn",
+    "host": "zh.ratabvd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "ratabvd.cn",
+      "url": "https://ratabvd.cn/",
+      "label": "纷达网络(Fenda)",
+      "apex": "ratabvd.cn",
+      "kind": null,
+      "identity": "thhmmec/page-02ecf4251d9ff3462c62be3d"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "77f32e5e0d732e258324caf4f5f8ec2111a28f78e0327975de6f0c2850604c89",
+    "sitemap.xml": "f6d8d05afdcf242242f63a0f294b1b00a8a006ca41792523841a903a514b79e8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84a9f61dc6aacd5a413fbf49ff902ddac27219fdaaa6544d20d665ec1790ab53",
+    "robots.txt": "52e4b8f4d56a1b7fba9a12a17b94c8516dd5b3ec068bcb45198a24b039902360",
+    "9dc6e3b2679e9456446f4bda1c4df93b.txt": "d1c57a7129e27c53b673ac89a190aecc420b19baa19d592e904c25d1a4fdb593"
+  },
+  "revision": "6cfc56a6cccecb549fd15025f8d5485a4652bd7b2fa7ee4d7329c37a199b82b7"
+}
